@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1lVHTdQS06FjJKIyMq8eXlr+uGt0xvRtWKxs5q5aQRc=",
+  "Source": "CozyHavenStay.Api",
+  "BasePath": "_content/CozyHavenStay.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

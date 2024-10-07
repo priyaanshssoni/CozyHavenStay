@@ -1,0 +1,3 @@
+2024-09-25 23:18:36,624 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-25 23:18:36,633 INFO  CozyHavenStay.Api.Service.UserService - Registering For User: abcde
+2024-09-25 23:18:38,339 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:CozyHavenStay.Data.Models.User

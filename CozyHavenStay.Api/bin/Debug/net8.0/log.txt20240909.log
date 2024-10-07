@@ -1,0 +1,8 @@
+2024-09-09 23:17:17,064 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-09 23:17:17,108 INFO  CozyHavenStay.Api.Service.UserService - Login Info Recieved 
+2024-09-09 23:18:12,797 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-09 23:18:12,839 INFO  CozyHavenStay.Api.Service.UserService - Login Info Recieved 
+2024-09-09 23:19:22,154 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-09 23:19:22,193 INFO  CozyHavenStay.Api.Service.UserService - Login Info Recieved 
+2024-09-09 23:19:25,582 INFO  CozyHavenStay.Api.Service.UserService - User Authorized
+2024-09-09 23:19:25,687 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJjdXN0b21lciIsImp0aSI6IjY3MDJhODY3LWUzZmYtNGUzNS05ZGQ5LThkMWVmOWVkMTkwZCIsImV4cCI6MTcyNTkwNzc2NSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.3Ccat5_tPCFoLkYCxyEDmC3TsM5aY9Py4djAqGsVB0g

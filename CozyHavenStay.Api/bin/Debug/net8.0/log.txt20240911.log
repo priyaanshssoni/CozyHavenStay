@@ -1,0 +1,57 @@
+2024-09-11 09:15:29,860 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:15:29,883 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: priyaansh
+2024-09-11 09:15:31,444 INFO  CozyHavenStay.Api.Service.UserService - User Not Found: priyaansh
+2024-09-11 09:15:41,316 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:15:41,317 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: priyaansh
+2024-09-11 09:15:41,346 INFO  CozyHavenStay.Api.Service.UserService - User Not Found: priyaansh
+2024-09-11 09:16:56,355 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:16:56,358 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:16:56,729 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:16:56,729 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6ImE4MjJmOWZlLWI0ZmMtNDUwNS05MTdkLWFiN2Y0NmJiZTVjZCIsImV4cCI6MTcyNjAzMDAxNiwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.JaqE948GnZMGTFNHmJDV0EQQcdyu-OObhKJPaX6QIhU
+2024-09-11 09:18:34,283 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:18:34,302 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:18:35,760 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:18:35,760 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6IjJmMDNlOTNlLTBjNjAtNDAwZi04NDM3LThhYTBiZjg1OTFlYyIsImV4cCI6MTcyNjAzMDExNSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.rXT68w847gxR7a3W98QnSwbSyV2bHxvCtNtik4Pvq9E
+2024-09-11 09:19:35,097 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:19:35,120 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:19:36,595 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:19:36,595 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6ImMzOTZlODlmLTg2YjItNDIzNi1iN2RhLTVjMzEzNWM5YzUwMSIsImV4cCI6MTcyNjAzMDE3NiwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.46xNAVKaDmh4g6c_3YvvYdptEL8d5AbVVtMv2_NDu9g
+2024-09-11 09:20:49,634 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:20:49,653 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:20:51,182 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:20:51,182 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6Ijg0NmEyYTA4LTBjOGMtNGRiZS05NmZiLTM5ZTU5ODg4YjAwOCIsImV4cCI6MTcyNjAzMDI1MSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.zDdzcp9W3LUE3-Gi6GHLdzqZ_WLekMckpagOli2XEmc
+2024-09-11 09:21:33,886 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:21:33,905 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:21:35,520 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:21:35,520 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6IjExNzlmMzBhLTFlMmMtNDg1MS04MTNhLTdkNmNhM2U1NDI1ZiIsImV4cCI6MTcyNjAzMDI5NSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.TcmPp1cIbZ3XsSMzoM5-pJ8IJp6wZ7di88vgxu4e6f4
+2024-09-11 09:21:51,602 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-11 09:25:18,061 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:25:18,078 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:25:19,552 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:25:19,553 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6ImExMGRjNDYzLTU5NGYtNGQzMS1hMmJjLTJhYTA0MzQ2ZWE2YiIsImV4cCI6MTcyNjAzMDUxOSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.Ql4DP_rBw7X-Yza_dfy3qiYKG_O3NO9qApCJcIYqWLE
+2024-09-11 09:27:32,044 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:27:32,065 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:27:33,527 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:27:33,528 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6IjhlZTZiYTM3LWQ2NzAtNDMzNC1iYmFjLWZlMzMxZTBiYmRiYiIsImV4cCI6MTcyNjAzMDY1MywiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.mVG6l_EEjmJT8g-uo8GNB-lx9V0-l-rr9I7L1iRY1jU
+2024-09-11 09:31:48,176 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 09:31:48,194 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 09:31:49,673 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 09:31:49,673 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6IjVlZWY3NDRhLWI3ZTEtNDZlZS1hMDI5LWY1YjlmYTgzODM1YyIsImV4cCI6MTcyNjAzMDkwOSwiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.-Xy1Rh0vIXy_7efUsNBcN1rfOFrXaEqVrrrlBTWXXx0
+2024-09-11 09:32:04,554 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-11 09:32:16,537 INFO  CozyHavenStay.Api.Service.UserService - Role assigned successfully to user with id 3
+2024-09-11 11:26:47,012 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 11:26:47,021 INFO  CozyHavenStay.Api.Service.UserService - Registering For User: user
+2024-09-11 11:26:48,395 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:CozyHavenStay.Data.Models.User
+2024-09-11 11:27:29,354 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 11:27:29,365 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: user
+2024-09-11 11:27:29,726 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: user
+2024-09-11 11:27:29,726 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiY3VzdG9tZXIiLCJqdGkiOiJlM2EwNWVjOS02M2U5LTRjNmQtYTE3OS04ZWM4NWMyODNkZDUiLCJleHAiOjE3MjYwMzc4NDksImlzcyI6IkNvenlIYXZlblN0YXkuQ29tIiwiYXVkIjoiVXNlciJ9.t0wyYLM9TIBk7lRyQx2MSziUTjw0GQxzCBa6PAka34M
+2024-09-11 11:46:21,560 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 11:46:21,585 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: suresh
+2024-09-11 11:46:23,224 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: suresh
+2024-09-11 11:46:23,224 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzdXJlc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJjdXN0b21lciIsImp0aSI6IjU0YTkwNWJiLTAwN2YtNGI4YS1hZTY4LTQ0OWI4OWIzODI3NSIsImV4cCI6MTcyNjAzODk4MywiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.holTS1D3y4W2N8_2-tQAWPXkI_84fz1XbsWmBk8Ex-I
+2024-09-11 11:49:22,967 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-11 11:49:22,968 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rajesh
+2024-09-11 11:49:23,001 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rajesh
+2024-09-11 11:49:23,001 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWplc2giLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImp0aSI6ImE0NWY1ZTRhLTJhMTUtNDJjOS1hZDYyLWY5ZTFhYWQzNTg0OCIsImV4cCI6MTcyNjAzOTE2MywiaXNzIjoiQ296eUhhdmVuU3RheS5Db20iLCJhdWQiOiJVc2VyIn0.aOdeVz1SK78UubsjNNy8Oa2tKbd41Fe-k83-AW8p-8U
+2024-09-11 11:49:44,077 INFO  CozyHavenStay.Api.Service.UserService - Role assigned successfully to user with id 3

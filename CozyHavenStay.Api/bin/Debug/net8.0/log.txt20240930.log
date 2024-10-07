@@ -1,0 +1,193 @@
+2024-09-30 09:19:58,102 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:21:46,343 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:22:27,966 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:23:55,738 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-30 09:23:55,740 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: priyaDesai
+2024-09-30 09:23:55,811 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: priyaDesai
+2024-09-30 09:23:55,811 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:priyaDesai
+2024-09-30 09:23:59,612 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:24:06,379 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:25:46,636 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:35:12,749 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:35:31,493 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:35:46,193 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:36:52,607 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:37:10,460 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:37:14,963 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 09:37:26,239 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 10:01:54,908 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 10:02:26,405 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 10:41:52,014 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:12:17,229 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:12:18,921 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:13:01,014 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:14:00,294 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:15:09,772 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:15:41,379 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:16:03,408 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:16:16,520 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:16:24,237 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:16:29,083 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:17:15,238 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:17:17,064 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:18:41,815 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:19:01,234 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:22:17,355 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:23:12,459 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:23:23,165 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:25:12,418 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:29:01,931 INFO  CozyHavenStay.Api.Service.UserService - Getting All Hotel Owners
+2024-09-30 11:31:34,444 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:32:21,350 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:42:10,240 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:42:52,204 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:49:46,455 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-30 11:49:46,457 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rakeshAgrawal
+2024-09-30 11:49:46,515 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rakeshAgrawal
+2024-09-30 11:49:46,515 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:rakeshAgrawal
+2024-09-30 11:49:48,245 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:49:59,324 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 11:51:33,339 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:16:11,910 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:21,816 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:35,290 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:39,403 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:43,897 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:56,152 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:17:59,588 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:04,453 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:16,002 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:23,630 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:27,116 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:28,599 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:40,489 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:46,892 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:18:53,277 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:02,286 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:04,130 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:23,902 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:36,738 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:44,419 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:53,786 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:19:58,599 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:20:09,209 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:07,128 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:26,406 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:29,325 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:42,096 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:45,172 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:56,920 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:21:58,220 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:05,178 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:07,468 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:09,248 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:10,767 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:43,168 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:46,718 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:22:51,479 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:23:02,150 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:23:34,682 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:23:37,773 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:23:52,826 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:23:58,694 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:24:40,517 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:24:44,156 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:24:52,688 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:24:57,436 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:25:02,435 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:25:16,106 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:25:19,021 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:25:26,147 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:25:39,829 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:05,869 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:09,835 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:12,307 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:13,759 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:29,727 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:34,198 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:36,740 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:42,771 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:46,246 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:50,453 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:52,084 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:26:55,853 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:27:29,130 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:29:55,339 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:33:00,630 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:42:58,956 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:43:12,528 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:44:33,854 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:44:37,733 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:44:39,780 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:13,016 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:15,937 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:20,599 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:23,650 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:27,498 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:29,253 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:31,237 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:32,905 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:46,276 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:51,112 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:46:56,204 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:47:04,906 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:49:22,315 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:51:16,939 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:51:53,345 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 12:52:36,036 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 13:35:20,651 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 13:45:43,340 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 13:45:57,484 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 13:46:00,490 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 13:46:44,641 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 14:27:17,617 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 14:35:52,502 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-30 14:35:52,506 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: sample
+2024-09-30 14:35:52,642 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: sample
+2024-09-30 14:35:52,643 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:sample
+2024-09-30 14:52:22,591 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 14:54:21,576 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:02:49,604 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:12:19,550 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:12:36,125 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:13:06,742 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:14:18,311 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:14:41,098 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:16:47,000 INFO  CozyHavenStay.Api.Controllers.UserController - GET request received
+2024-09-30 15:16:47,002 INFO  CozyHavenStay.Api.Service.UserService - Log in for User: rakeshAgrawal
+2024-09-30 15:16:47,045 INFO  CozyHavenStay.Api.Service.UserService - User logged in successfully: rakeshAgrawal
+2024-09-30 15:16:47,045 INFO  CozyHavenStay.Api.Controllers.UserController - Authorized User:rakeshAgrawal
+2024-09-30 15:16:48,881 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:16:52,061 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:16:54,276 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:34:16,281 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: abc
+2024-09-30 15:34:16,282 INFO  CozyHavenStay.Api.Service.UserService - Getting User: abc
+2024-09-30 15:34:33,715 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: abc
+2024-09-30 15:34:33,728 INFO  CozyHavenStay.Api.Service.UserService - Getting User: abc
+2024-09-30 15:36:53,285 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: abc
+2024-09-30 15:36:53,288 INFO  CozyHavenStay.Api.Service.UserService - Getting User: abc
+2024-09-30 15:41:54,247 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:41:54,254 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 15:42:18,467 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:42:32,975 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:42:32,975 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 15:42:51,667 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:42:52,946 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:42:59,760 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:42:59,760 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 15:43:05,589 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:43:30,292 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:43:57,514 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:43:57,515 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 15:44:21,462 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 15:51:03,894 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:51:03,895 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 15:54:48,503 INFO  CozyHavenStay.Api.Service.UserService - Updating User Profile: rakeshAgrawal
+2024-09-30 15:54:48,505 INFO  CozyHavenStay.Api.Service.UserService - Getting User: rakeshAgrawal
+2024-09-30 16:00:31,293 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 16:03:34,733 INFO  CozyHavenStay.Api.Service.UserService - Role assigned successfully to user with id 1
+2024-09-30 16:03:39,465 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 22:09:55,737 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 22:10:12,837 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 22:10:31,161 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users
+2024-09-30 22:11:33,611 INFO  CozyHavenStay.Api.Service.UserService - Getting all the Users

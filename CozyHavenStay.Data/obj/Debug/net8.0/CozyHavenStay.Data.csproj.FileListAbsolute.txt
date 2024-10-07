@@ -1,0 +1,14 @@
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/bin/Debug/net8.0/CozyHavenStay.Data.deps.json
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/bin/Debug/net8.0/CozyHavenStay.Data.runtimeconfig.json
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/bin/Debug/net8.0/CozyHavenStay.Data.dll
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/bin/Debug/net8.0/CozyHavenStay.Data.pdb
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.csproj.AssemblyReference.cache
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.AssemblyInfoInputs.cache
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.AssemblyInfo.cs
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.dll
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/refint/CozyHavenStay.Data.dll
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.pdb
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/CozyHavenStay.Data.genruntimeconfig.cache
+/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Data/obj/Debug/net8.0/ref/CozyHavenStay.Data.dll

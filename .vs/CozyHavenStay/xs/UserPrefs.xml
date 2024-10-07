@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{59A2F91E-8731-4413-9CBC-EFE92942C88D}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CozyHavenStay.Api/Controllers/AdminController.cs">
+    <Files>
+      <File FileName="CozyHavenStay.Api/RepositoryImplementation/BookingRepository.cs" />
+      <File FileName="CozyHavenStay.Api/ServiceImplementation/RoomService.cs" />
+      <File FileName="CozyHavenStay.Data/Enums/BookingStatus.cs" />
+      <File FileName="CozyHavenStay.Api/ServiceImplementation/ReviewService.cs" />
+      <File FileName="CozyHavenStay.Api/ServiceAbstractions/IReviewService.cs" />
+      <File FileName="CozyHavenStay.Api/Controllers/ReviewController.cs" />
+      <File FileName="CozyHavenStay.Api/ServiceImplementation/HotelAmenityService.cs" />
+      <File FileName="CozyHavenStay.Api/ServiceImplementation/AmenityService.cs" />
+      <File FileName="CozyHavenStay.Api/Controllers/AdminController.cs" Line="50" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CozyHavenStay" expanded="True">
+            <Node name="CozyHavenStay.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AdminController.cs" selected="True" />
+              </Node>
+              <Node name="RepositoryImplementation" expanded="True" />
+              <Node name="ServiceImplementation" expanded="True" />
+            </Node>
+            <Node name="CozyHavenStay.Data" expanded="True">
+              <Node name="DTO's" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CozyHavenStay.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint enabled="false" file="/Users/macbook/Projects/CozyHavenStay/CozyHavenStay.Api/ServiceImplementation/CityService.cs" relfile="CozyHavenStay.Api/ServiceImplementation/CityService.cs" line="98" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
